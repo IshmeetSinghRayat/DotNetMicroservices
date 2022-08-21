@@ -1,0 +1,12 @@
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\bin\Release\net5.0\Caltalog.contacts.deps.json
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\bin\Release\net5.0\Caltalog.contacts.dll
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\bin\Release\net5.0\ref\Caltalog.contacts.dll
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\bin\Release\net5.0\Caltalog.contacts.pdb
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.csprojAssemblyReference.cache
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.AssemblyInfoInputs.cache
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.AssemblyInfo.cs
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.csproj.CoreCompileInputs.cache
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.dll
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\ref\Caltalog.contacts.dll
+C:\DotNetProject\Play.Catalog\src\Caltalog.contacts\obj\Release\net5.0\Caltalog.contacts.pdb

@@ -1,0 +1,12 @@
+C:\DotNetProject\Common\src\CommonService\bin\Debug\net5.0\CommonService.deps.json
+C:\DotNetProject\Common\src\CommonService\bin\Debug\net5.0\CommonService.dll
+C:\DotNetProject\Common\src\CommonService\bin\Debug\net5.0\ref\CommonService.dll
+C:\DotNetProject\Common\src\CommonService\bin\Debug\net5.0\CommonService.pdb
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.csprojAssemblyReference.cache
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.AssemblyInfoInputs.cache
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.AssemblyInfo.cs
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.csproj.CoreCompileInputs.cache
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.dll
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\ref\CommonService.dll
+C:\DotNetProject\Common\src\CommonService\obj\Debug\net5.0\CommonService.pdb
